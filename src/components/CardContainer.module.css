@@ -1,0 +1,70 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20.94px;
+  background-color: #fff;
+  border: 1.4px solid rgba(147, 162, 211, 0.38);
+  box-sizing: border-box;
+  width: 381px;
+  height: 554px;
+}
+.crunchwrapSupreme {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ploremIpsumIs {
+  position: relative;
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  line-height: 27px;
+  font-family: "Open Sans";
+  color: #444957;
+  display: inline-block;
+  width: 295px;
+}
+.crunchwrapSupremeParent,
+.frameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13.7px;
+}
+.frameParent {
+  position: absolute;
+  top: 319.51px;
+  left: 43.17px;
+  gap: 27.41px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 554px;
+}
+.mealPrepIdeas846x8461Icon {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  border-radius: 21px;
+  width: 326px;
+  height: 258px;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  top: 125px;
+  left: 422px;
+  width: 381px;
+  height: 554px;
+  text-align: left;
+  font-size: 21px;
+  color: #0e2368;
+  font-family: Poppins;
+}

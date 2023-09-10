@@ -1,0 +1,88 @@
+.groupChild,
+.latestArticles {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.latestArticles {
+  margin: 0;
+  font-size: 56px;
+  letter-spacing: 0.04em;
+  line-height: 42px;
+  font-weight: 600;
+  font-family: "Source Sans Pro";
+  display: inline-block;
+  width: 461px;
+  height: 84px;
+}
+.groupChild {
+  border-radius: 20.94px;
+  background-color: #fff;
+  border: 1.4px solid rgba(147, 162, 211, 0.38);
+  box-sizing: border-box;
+  width: 381px;
+  height: 554px;
+}
+.grilledTomatoes1846x8461Icon {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  border-radius: 21px;
+  width: 326px;
+  height: 257px;
+  object-fit: cover;
+}
+.howToGrill,
+.ploremIpsumIs {
+  position: relative;
+  line-height: 27px;
+}
+.howToGrill {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ploremIpsumIs {
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  font-family: "Open Sans";
+  color: #444957;
+  display: inline-block;
+  width: 295px;
+}
+.frameParent,
+.howToGrillCornParent {
+  height: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.frameParent {
+  position: absolute;
+  top: 319.51px;
+  left: 43.17px;
+  width: 295.02px;
+  height: 194.52px;
+  gap: 27.41px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  width: 381px;
+  height: 554px;
+}
+.latestArticlesParent {
+  position: absolute;
+  top: 1615px;
+  left: 1554px;
+  width: 1225px;
+  height: 679px;
+  text-align: left;
+  font-size: 21px;
+  color: #0e2368;
+  font-family: Poppins;
+}

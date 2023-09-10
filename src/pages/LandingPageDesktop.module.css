@@ -1,0 +1,312 @@
+.landingPageDesktopChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 804px;
+}
+.screenshot6691Icon {
+  position: absolute;
+  top: 33px;
+  left: 100px;
+  width: 107px;
+  height: 83px;
+  object-fit: cover;
+}
+.landingPageDesktopItem {
+  position: absolute;
+  top: 803px;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 653px;
+}
+.landingPageDesktopInner {
+  position: absolute;
+  top: 989px;
+  left: 0;
+  background: linear-gradient(
+    90.07deg,
+    rgba(30, 42, 93, 0.04),
+    rgba(48, 62, 130, 0.04) 55.51%,
+    rgba(60, 80, 157, 0.04)
+  );
+  width: 1440px;
+  height: 467px;
+}
+.groupIcon {
+  position: absolute;
+  top: calc(50% - 1758.5px);
+  left: calc(50% - 15px);
+  width: 735px;
+  height: 804px;
+  object-fit: cover;
+}
+.discoverThe {
+  margin: 0;
+}
+.best {
+  color: #e23744;
+}
+.discoverTheBestContainer,
+.naturallyMadeHealthcare {
+  position: absolute;
+  left: 100px;
+  display: inline-block;
+  width: 345px;
+}
+.discoverTheBestContainer {
+  margin: 0;
+  top: 227px;
+  font-size: 62px;
+  line-height: 69px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.naturallyMadeHealthcare {
+  top: 460px;
+  font-size: 16.44px;
+  line-height: 27.41px;
+  font-family: "Open Sans";
+  color: #444957;
+}
+.pharmasictServingCustomerDrIcon {
+  object-fit: cover;
+}
+.maskGroup,
+.pharmasictServingCustomerDrIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 384px;
+  height: 468px;
+}
+.aboutgirlLp,
+.aboutgirlLpChild {
+  position: absolute;
+  top: 1377.62px;
+  left: 258.39px;
+  width: 47px;
+  height: 25.71px;
+}
+.aboutgirlLp {
+  top: 989px;
+  left: 205px;
+  width: 384px;
+  height: 468px;
+}
+.groupChild,
+.groupSection {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+  height: 995px;
+}
+.groupChild {
+  top: 0;
+  background-color: #fff;
+}
+.groupSection {
+  top: 1456px;
+}
+.screenshot6692Icon {
+  position: absolute;
+  top: 2574px;
+  left: 104px;
+  width: 161px;
+  height: 125px;
+  object-fit: cover;
+}
+.vectorIcon {
+  position: absolute;
+  top: 0;
+  left: 688px;
+  width: 752px;
+  height: 839px;
+}
+.getInTouch {
+  position: relative;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  line-height: 36px;
+  font-weight: 600;
+  font-family: "Source Sans Pro";
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  width: 99px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.getInTouchWrapper {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 3px 26px;
+  background-color: transparent;
+  position: absolute;
+  top: 32px;
+  left: 1277px;
+  border-radius: 21px;
+  box-sizing: border-box;
+  width: 122px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.landingPageDesktopChild1 {
+  position: absolute;
+  top: 162.72px;
+  left: 1215.53px;
+  width: 115.11px;
+  height: 76.82px;
+  display: none;
+}
+.aboutUs,
+.loremIpsumIs {
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.aboutUs {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 422px;
+  height: 26px;
+}
+.loremIpsumIs {
+  font-size: 15px;
+  font-family: "Open Sans";
+  color: #444957;
+  width: 447px;
+  height: 138px;
+}
+.aboutUsParent,
+.frameParent,
+.frameWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aboutUsParent {
+  gap: 27.41px;
+}
+.frameParent,
+.frameWrapper {
+  width: 447px;
+  height: 192px;
+}
+.frameParent {
+  position: absolute;
+  top: 1096px;
+  left: 789px;
+  height: 254px;
+  gap: 21px;
+  font-size: 45px;
+  font-family: Poppins;
+}
+.div {
+  position: absolute;
+  top: 2358px;
+  left: 705px;
+  line-height: 27.22px;
+  color: #424961;
+}
+.image1Traced {
+  position: absolute;
+  height: 55.17%;
+  width: 35.71%;
+  top: 24.14%;
+  right: 32.14%;
+  bottom: 20.69%;
+  left: 32.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #afafaf;
+  box-sizing: border-box;
+  width: 28px;
+  height: 29px;
+}
+.image1TracedParent,
+.landingPageDesktopChild2 {
+  position: absolute;
+  height: 0.82%;
+  width: 1.94%;
+  top: 66.83%;
+  right: 52.01%;
+  bottom: 32.35%;
+  left: 46.04%;
+}
+.landingPageDesktopChild2 {
+  right: 46.04%;
+  left: 52.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleSection {
+  position: absolute;
+  top: 1457px;
+  left: 1440px;
+  background-color: #fff;
+  width: 1440px;
+  height: 994px;
+}
+.div1 {
+  position: absolute;
+  top: 2359px;
+  left: 2145px;
+  line-height: 27.22px;
+  color: #424961;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid #424961;
+  box-sizing: border-box;
+  width: 28px;
+  height: 29px;
+}
+.image1TracedGroup,
+.landingPageDesktopChild3 {
+  position: absolute;
+  height: 0.82%;
+  width: 1.94%;
+  top: 66.86%;
+  right: -47.99%;
+  bottom: 32.32%;
+  left: 146.04%;
+}
+.landingPageDesktopChild3 {
+  right: -53.96%;
+  left: 152.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.landingPageDesktop {
+  position: relative;
+  width: 100%;
+  height: 3527px;
+  text-align: left;
+  font-size: 22px;
+  color: #0e2368;
+  font-family: "Source Sans Pro";
+}
